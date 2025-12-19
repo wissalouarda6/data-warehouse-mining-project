@@ -61,3 +61,4 @@ MIT License
 .RData
 .Rproj.user
 \*.Rproj
+# data-warehouse-mining-project
