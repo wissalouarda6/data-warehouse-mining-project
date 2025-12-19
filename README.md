@@ -48,17 +48,5 @@ The script generates:
 - **Part 5**: KPI Dashboard
 - **Part 6**: Export Results
 
-## License
 
-MIT License
 
-```
-
-## **📝 Create .gitignore:**
-```
-
-.Rhistory
-.RData
-.Rproj.user
-\*.Rproj
-# data-warehouse-mining-project
