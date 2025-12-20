@@ -4,14 +4,14 @@ A comprehensive retail sales analysis system implementing ETL processes, OLAP an
 
 ## Features
 
-- ✅ Complete Data Warehouse (Star Schema)
-- ✅ OLAP Multidimensional Analysis
-- ✅ RFM Customer Segmentation
-- ✅ K-means Clustering
-- ✅ Anomaly Detection
-- ✅ Interactive Visualizations
-- ✅ KPI Dashboard
-- ✅ Automated CSV Exports
+-  Complete Data Warehouse (Star Schema)
+-  OLAP Multidimensional Analysis
+-  RFM Customer Segmentation
+-  K-means Clustering
+-  Anomaly Detection
+-  Interactive Visualizations
+-  KPI Dashboard
+-  Automated CSV Exports
 
 ## Requirements
 
