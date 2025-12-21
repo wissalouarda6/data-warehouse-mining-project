@@ -3,7 +3,6 @@
 A comprehensive retail sales analysis system implementing ETL processes, OLAP analysis, and data mining techniques in R.
 
 ## Features
-
 -  Complete Data Warehouse (Star Schema)
 -  OLAP Multidimensional Analysis
 -  RFM Customer Segmentation
